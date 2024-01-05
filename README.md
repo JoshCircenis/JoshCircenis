@@ -1,5 +1,5 @@
-## Hi my name is Josh Circenis
-# I am a student at Colorado State University studying Computer Science
+# Hi my name is Josh Circenis
+### I am a student at Colorado State University studying Computer Science
 <!--
 **JoshCircenis/JoshCircenis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
