@@ -2,4 +2,4 @@
 I am a student at Colorado State University studying Computer Science.
 
 ## Projects
-[Underwater ROV](#Underwater-ROV)
+[Underwater ROV](#github.com/JoshCircenis/Underwater-ROV)
