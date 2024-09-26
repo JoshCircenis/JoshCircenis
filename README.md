@@ -1,5 +1,5 @@
 # Hi my name is Josh Circenis
-I am a student at Colorado State University studying Computer Science. Some of my hobbies include 3D printing, robotics, playing bass, running, nordic skiing, and disc golf.
+I am a student at Colorado State University studying Computer Science. I am currently focused on software developement, machine learning/artificial intelligence, and software for embedded systems.
 
 ## Some of my personal projects
 * [Underwater ROV](https://github.com/JoshCircenis/Underwater-ROV)
