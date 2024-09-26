@@ -5,14 +5,14 @@ I am a student at Colorado State University studying Computer Science. I am curr
 |**Languages**|**Frameworks & Libraries**|**Tools & Technologies**|
 |:---|:---|:---|
 |C/C++|Keras|Git|
-|Java|Tensorflow|Linux|
-|Python|Pandas|Postman|
-|JavaScript|NumPy|Zenhub|
-|SQL|React|Code Climate|
-|PHP|JUnit|Scrum|
-|HTML|Jest|Hyper-V|
-|CSS||MDT|
-|x86||Active Directory|
+|Java|Tensorflow|Postman|
+|Python|Pandas|Zenhub|
+|JavaScript|NumPy|Code Climate|
+|SQL|React|Agile |
+|PHP|JUnit|Hyper-V|
+|HTML|Jest|MDT|
+|CSS||Active Directory|
+|x86||
 
 
 ## Some of my personal projects
