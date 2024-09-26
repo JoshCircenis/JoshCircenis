@@ -3,7 +3,7 @@ I am a student at Colorado State University studying Computer Science. I am curr
 
 ## Technical Skills
 |**Languages**|**Frameworks & Libraries**|**Tools & Technologies**|
-|:---:|:---:|:---:|
+|:---|:---|:---|
 |C/C++|Keras|Git|
 |Java|Tensorflow|Linux|
 |Python|Pandas|Postman|
