@@ -4,8 +4,8 @@ I am a student at Colorado State University studying Computer Science. I am curr
 ## Technical Skills
 |**Information A**|**Information B**|
 |:---:|:---:|
-| Text1 <br/> Text2 | test |
-| Text3 <br/> Text4 | test |
+| Text1| test |
+| Text2|
 
 ## Some of my personal projects
 * [Underwater ROV](https://github.com/JoshCircenis/Underwater-ROV)
