@@ -1,5 +1,5 @@
 # Hi my name is Josh Circenis
-I am a student at Colorado State University studying Computer Science. I am currently focused on software developement, machine learning/artificial intelligence, and software for embedded systems.
+I am a student at Colorado State University studying Computer Science with a minor in Mathematics. I am currently focused on software developement, machine learning/artificial intelligence, and software for embedded systems. Some of my skills include the following:
 
 ## Technical Skills
 |**Languages**|**Frameworks & Libraries**|**Tools & Technologies**|
