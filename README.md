@@ -16,6 +16,7 @@ I am a student at Colorado State University studying Computer Science with a min
 
 
 ## Some of my personal projects
+Note: some of these repos are out of date with the work completed and are currently being updated and refined
 * [Underwater ROV](https://github.com/JoshCircenis/Underwater-ROV)
 * [Plotter](https://github.com/JoshCircenis/Plotter)
 * [Waypoint Robot](https://github.com/JoshCircenis/Waypoint-Robot)
